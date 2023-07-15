@@ -27,10 +27,10 @@ To get started with MaAvatar, please follow the instructions below.
 
 ## Installation
 1. Clone the MaAvatar repository from GitHub:
-2. git clone https://github.com/your-username/maavatar.git
+2. 'git clone https://github.com/your-username/maavatar.git'
 3. Install the required dependencies:
-4. cd MaAvatar
-5. npm install
+4. 'cd MaAvatar'
+5. 'npm install'
 
    
 ## Usage
@@ -44,12 +44,12 @@ To get started with MaAvatar, please follow the instructions below.
 We welcome contributions from the community to enhance Project MaAvatar. If you would like to contribute, please follow these steps:
 1. Fork the repository and clone it to your local machine.
 2. Create a new branch for your feature or bug fix:
-3. git checkout -b feature/your-feature-name.
+3. 'git checkout -b feature/your-feature-name'
 4. Make your modifications and ensure that your code adheres to the project's coding conventions.
 5. Commit your changes with a descriptive commit message:
 6. git commit -m "Add your commit message here".
 7. Push your branch to your forked repository:
-8. git push origin feature/your-feature-name.
+8. 'git push origin feature/your-feature-name'
 9. Open a pull request on the main repository, detailing your changes and the motivation behind them.
 
 ## License
