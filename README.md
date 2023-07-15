@@ -1,5 +1,5 @@
 # MaAvatarworld
-# Project MaAvatar - Virtual Parenting in the Metaverse
+# Virtual Parenting in the Metaverse
 
 ![MaAvatar Logo](maavatar_logo.png)
 
