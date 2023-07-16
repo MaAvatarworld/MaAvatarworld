@@ -1,7 +1,8 @@
 # MaAvatarworld
 # Virtual Parenting in the Metaverse
 
-![maavatar_logo](https://github.com/MaAvatarworld/MaAvatarworld/assets/139352551/6df3190c-6659-47be-a69b-5ed1df920f0e)
+![maavatar_logo](https://github.com/MaAvatarworld/MaAvatarworld/assets/139352551/72bf0202-937a-48ec-842d-2a1ccc7ccfd8)
+
 
 
 ## Table of Contents
