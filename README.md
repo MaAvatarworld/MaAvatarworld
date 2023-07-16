@@ -1,7 +1,7 @@
 # MaAvatarworld
 # Virtual Parenting in the Metaverse
 
-![MaAvatar Logo](maavatar_logo.png)
+![MaAvatar Logo]("C:\Users\kaush\OneDrive\Pictures\maavatar_logo.png")
 
 ## Table of Contents
 1. [Introduction](#introduction)
